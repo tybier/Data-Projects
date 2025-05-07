@@ -5,4 +5,4 @@ A comparison of regression models on estimating the amount of monetary loss sust
 
 The creation of a recurrent neural network (RNN) that can categorize customer sentiment data as positive or negative using customer reviews. 
 
-Forecasting future hospital revenue using time series modeling (ARIMA model) based on historical historical revenue. 
+Forecasting future hospital revenue using time series modeling (ARIMA model). 
