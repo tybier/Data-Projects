@@ -6,3 +6,5 @@ A comparison of regression models on estimating the amount of monetary loss sust
 The creation of a recurrent neural network (RNN) that can categorize customer sentiment data as positive or negative using customer reviews. 
 
 Forecasting future hospital revenue using time series modeling (ARIMA model). 
+
+Using a K-means model as a clustering method. Specifically using the model with a medical dataset to cluster/ group patients to determine if there is a relationship between income levels and number of days admitted within the hospital. 
